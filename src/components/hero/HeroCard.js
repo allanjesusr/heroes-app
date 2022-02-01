@@ -9,7 +9,7 @@ export const HeroCard = ({
     characters 
 }) => {
 
-    const imagePath = `/assets/${id}.jpg`;
+    const imagePath = `heroes-app/assets/${id}.jpg`;
 
     return (
 
